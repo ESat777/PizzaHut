@@ -1,0 +1,28 @@
+html {
+  font-size: 14px;
+}
+/*body {
+    background-image:url(/Images/21a75583eebde777577803534ad4d671-1024x806.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+*/
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+
